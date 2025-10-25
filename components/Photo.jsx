@@ -26,7 +26,7 @@ const Photo = () => {
                     className="absolute w-[298px] h-[298px] xl:w-[498px] xl:h-[498px] rounded-full overflow-hidden mix-blend-lighten"
                 >
                     <Image
-                        src="/assets/assets/Pic.jpg"
+                        src="/assets/assets/pic.jpg"
                         quality={100}
                         fill
                         alt="profile photo"
