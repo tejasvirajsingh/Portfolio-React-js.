@@ -4,10 +4,10 @@ import TwitterIcon from "@/components/icons/twitter";
 import LeetcodeIcon from "@/components/icons/Leetcode";
 
 const socials = [
-    { icon: <FaGithub />, path: "https://github.com/Satyam-R4j" },
-    { icon: <FaLinkedinIn />, path: "https://www.linkedin.com/in/satyam-r4j/" },
-    { icon: <TwitterIcon />, path: "https://x.com/satyamraj2104" },
-    { icon: <LeetcodeIcon />, path: "https://leetcode.com/u/Satyam-Raj/" },
+    { icon: <FaGithub />, path: "https://github.com/tejasvirajsingh" },
+    { icon: <FaLinkedinIn />, path: "https://www.linkedin.com/in/tejasvirajsingh/" },
+    { icon: <TwitterIcon />, path: "https://x.com/" },
+    { icon: <LeetcodeIcon />, path: "https://leetcode.com/u/tejasvirajsingh/" },
     // <img src="/icons/twitter-dark.svg" alt="X Logo"/>
 ];
 
@@ -31,3 +31,5 @@ const Social = ({ containerStyles, iconsStyles }) => {
 };
 
 export default Social;
+
+

@@ -28,7 +28,7 @@ const projects = [
         stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "JavaScript" }],
         image: "/assets/assets/work/sneakers.png",
         live: "",
-         github: "https://github.com/tejasvirajsiingh",
+         github: "https://github.com/tejasvirajsingh",
         
     },
     {
@@ -44,7 +44,7 @@ const projects = [
         ],
         image: "/assets/assets/work/docs.png",
         live: "",
-         github: "https://github.com/tejasvirajsiingh",
+         github: "https://github.com/tejasvirajsingh",
        
     },
     {
@@ -61,7 +61,7 @@ const projects = [
         ],
         image: "/assets/assets/work/linktree.png",
         live: "",
-       github: "https://github.com/tejasvirajsiingh",
+       github: "https://github.com/tejasvirajsingh",
     },
     {
         num: "04",
@@ -76,7 +76,7 @@ const projects = [
         ],
         image: "/assets/assets/work/codereview.png",
         live: "",
-        github: "https://github.com/tejasvirajsiingh",
+        github: "https://github.com/tejasvirajsingh",
     },
 ];
 

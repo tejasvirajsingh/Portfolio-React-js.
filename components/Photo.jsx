@@ -40,11 +40,11 @@ const Photo = () => {
                     xmlns="http://www.w3.org/2000/svg"
                 >
                     <motion.circle
-                        cx="253"
-                        cy="253"
-                        r="250"
+                        cx="203"
+                        cy="203"
+                        r="200"
                         stroke="#F44336"
-                        strokeWidth="4"
+                        strokeWidth="2"
                         strokeLinecap="round"
                         strokeLinejoin="round"
                         initial={{ strokeDasharray: "24 10 0 0" }}
