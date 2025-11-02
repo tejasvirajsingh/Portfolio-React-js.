@@ -26,7 +26,7 @@ const Photo = () => {
                     className="absolute w-[298px] h-[298px] xl:w-[498px] xl:h-[498px] rounded-full overflow-hidden mix-blend-lighten"
                 >
                     <Image
-                        src="/public/assets/assets/pic.jpg"
+                        src="/assets/pic.jpg"
                         quality={100}
                         fill
                         alt="profile photo"
@@ -40,11 +40,11 @@ const Photo = () => {
                     xmlns="http://www.w3.org/2000/svg"
                 >
                     <motion.circle
-                        cx="203"
-                        cy="203"
-                        r="200"
+                        cx="253"
+                        cy="253"
+                        r="250"
                         stroke="#F44336"
-                        strokeWidth="2"
+                        strokeWidth="4"
                         strokeLinecap="round"
                         strokeLinejoin="round"
                         initial={{ strokeDasharray: "24 10 0 0" }}
