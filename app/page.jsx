@@ -27,7 +27,7 @@ export default function Home() {
                                 size="lg"
                                 className="uppercase flex items-center gap-2 rounded-3xl"
                             >
-                                  <a href="/CV.pdf" download className="flex items-center gap-2">
+                                  <a href="/Resume.pdf" download className="flex items-center gap-2">
                                 <span>Download CV</span>
                                 <FiDownload className="text-xl" />
                                 </a>
