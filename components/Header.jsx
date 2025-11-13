@@ -11,7 +11,7 @@ const Header = () => {
         <Link href="/">
           <h1 className="text-4xl font-semibold">
             
-            Tejasvi<span className="text-red-500 blink">_</span>
+            Mr Max<span className="text-red-500 blink">_</span>
           </h1>
         </Link>
 
