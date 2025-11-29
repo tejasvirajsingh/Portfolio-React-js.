@@ -57,7 +57,7 @@ const Photo = () => {
                             rotate: [120, 360],
                         }}
                         transition={{
-                          duration:20,
+                          duration:10,
                           repeat: Infinity,
                           repeatType:"reverse"
                         }}
