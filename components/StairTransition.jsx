@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import Stairs from "./Stairs";
 
 
-const StairTransition = () => {
+const StairTransition =  () => {
     const pathname = usePathname();
     return (
         <>
