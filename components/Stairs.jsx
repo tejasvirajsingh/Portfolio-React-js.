@@ -41,4 +41,6 @@ const Stairs = () => {
     );
 };
 
+// export to Stairs....
+
 export default Stairs;
