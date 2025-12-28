@@ -7,6 +7,9 @@ const Photo = () => {
     return (
         <div className="w-full h-full relative ">
             <motion.div
+
+            // input the value of Line
+            
                 initial={{ opacity: 0 }}
                 animate={{
                     opacity: 1,
