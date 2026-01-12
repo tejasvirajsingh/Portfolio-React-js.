@@ -32,7 +32,7 @@ const Photo = () => {
                         src="/assets/pic.jpg"
                         quality={100}
                         fill
-                        alt="profile photo"
+                        alt="Max"
                         className="object-contain"
                     />
                 </motion.div>
@@ -60,7 +60,7 @@ const Photo = () => {
                             rotate: [120, 360],
                         }}
                         transition={{
-                          duration:10,
+                          duration:5,
                           repeat: Infinity,
                           repeatType:"reverse"
                         }}
